@@ -13,6 +13,21 @@
       "url": "https://www.instagram.com/archetype.in.void"
     },
     {
+      "title": "Anchor",
+      "icon": "fa-microphone-alt",
+      "url": "https://anchor.fm/the-archetype"
+    },
+    {
+      "title": "Spotify",
+      "icon": "fa-spotify",
+      "url": "https://open.spotify.com/show/71stLI5R3fLDyV0Lsy9S55"
+    },
+    {
+      "title": "Itunes",
+      "icon": "fa-itunes",
+      "url": "https://podcasts.apple.com/it/podcast/play-in-the-void/id1474152314"
+    },
+    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
@@ -23,11 +38,6 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/"
-    },
-    {
-      "title": "Anchor",
-      "icon": "fa-microphone-alt",
-      "url": "https://anchor.fm/the-archetype"
     }
   ]
 }
