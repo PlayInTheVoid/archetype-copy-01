@@ -1,16 +1,24 @@
 ---
 title: Home
 sections:
-  - type: heroblock
-    section_id: hero
-    component: HeroBlock
+  - component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-  - type: contentblock
-    title: About
-    section_id: about
-    actions:
+      Hei! salve... come tu ci sia capitato qui è un mistero.\
+
+      Ma se ci sei, prenditi un momento per leggere e magari ascoltare quello
+      che ho da dire...
+
+
+      Ovvio, ti chiederai su cosa...facile! Su ciò che mi appassiona e mi
+      condisce il quotidiano.
+
+
+
+
+      # E' un Esperenziale dal nome Archetype
+    section_id: hero
+    type: heroblock
+  - actions:
       - label: Contact Me
         url: /contact
     component: ContentBlock
@@ -19,17 +27,21 @@ sections:
       yourself that people can read on the homepage to get a sense of who you
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
-  - type: postsblock
-    title: Recent Posts
-    section_id: recent-posts
-    actions:
+    section_id: about
+    title: About
+    type: contentblock
+  - actions:
       - label: View Blog
         url: blog/index.html
     component: PostsBlock
     num_posts_displayed: 4
+    section_id: recent-posts
+    title: Recent Posts
+    type: postsblock
 menus:
   main:
     title: Home
     weight: 1
 template: home
 ---
+
