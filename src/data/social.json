@@ -23,6 +23,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/"
+    },
+    {
+      "title": "Anchor",
+      "icon": "fa-anchor",
+      "url": "https://anchor.fm/the-archetype"
     }
   ]
 }
