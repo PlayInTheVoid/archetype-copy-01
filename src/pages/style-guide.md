@@ -12,9 +12,13 @@ menus:
     weight: 3
 template: page
 ---
-<iframe src="https://anchor.fm/the-archetype/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://castbox.fm/app/castbox/player/id2228651?v=8.5.0&autoplay=1" frameborder="0" width="100%" height="500"></iframe>
 
-****
+<iframe src="https://gopod.me/embed.php?t=1&p=archetype" width="100%" height="100px" frameborder="0" scrolling="no"> </iframe>
+
+
+
+
 
 **This is a paragraph**. Pellentesque habitant morbi _tristique senectus et netus et malesuada_ fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
