@@ -8,7 +8,7 @@ subtitle: >-
   i podcast sul sito ( che sto curando zero oramai ) è  Anchor!
 menus:
   main:
-    title: Clicca ed Ascolta - Pensieri in Parole
+    title: Podcast
     weight: 3
 template: page
 ---
