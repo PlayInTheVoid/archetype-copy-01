@@ -5,7 +5,7 @@
   "header": {
     "title": "The Archetype",
     "tagline": "un Blog Personale",
-    "profile_img": "/images/cerchio.png",
+    "profile_img": "/images/triangolo.png",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
